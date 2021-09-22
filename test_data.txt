@@ -1,0 +1,3 @@
+PB_PRE_PRESSED Medium Maximum PB_PLUS
+PB_PRE_PRESSED Maximum Medium PB_MINUS
+PB_PRESSED Medium Minimum PB_PRESSURE SW_P_TIME_30_ms

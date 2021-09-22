@@ -1,0 +1,181 @@
+# depslib dependency file v1.0
+1577326492 source:e:\sa\vacuum_cleaner_speed_control\test\unity\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
+1577326492 e:\sa\vacuum_cleaner_speed_control\test\unity\unity.h
+	"unity_internals.h"
+
+1577326492 e:\sa\vacuum_cleaner_speed_control\test\unity\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
+1577326492 source:e:\sa\vacuum_cleaner_speed_control\test\unity\unity_fixture.c
+	"unity_fixture.h"
+	"unity_internals.h"
+	<string.h>
+
+1578842215 e:\sa\vacuum_cleaner_speed_control\test\unity\unity_fixture.h
+	"unity.h"
+	"unity_internals.h"
+	"unity_fixture_internals.h"
+	"unity_memory.h"
+
+1577326492 e:\sa\vacuum_cleaner_speed_control\test\unity\unity_fixture_internals.h
+
+1577326492 e:\sa\vacuum_cleaner_speed_control\test\unity\unity_memory.h
+	<stddef.h>
+	<stdlib.h>
+
+1615478656 source:e:\sa\vacuum_cleaner_speed_control\source\main.c
+	<stdio.h>
+	<stdlib.h>
+	"switch/switch.h"
+	"speed/speed.h"
+	"../test/unity/unity_fixture.h"
+
+1615491568 e:\sa\vacuum_cleaner_speed_control\source\switch\switch.h
+
+1615491578 e:\sa\vacuum_cleaner_speed_control\source\speed\speed.h
+
+1577326492 source:e:\sa\vacuum_cleaner_speed_control\test\unity\unity_memory.c
+	"unity.h"
+	"unity_memory.h"
+	<string.h>
+	<stdlib.h>
+
+1615491715 source:e:\sa\vacuum_cleaner_speed_control\source\speed\speed.c
+	"speed.h"
+	"../switch/switch.h"
+	"../../test/fake_switch/fake_sw.h"
+
+1615491286 e:\sa\vacuum_cleaner_speed_control\test\fake_switch\fake_sw.h
+	"../../source/switch/switch.h"
+
+1615476002 source:e:\sa\vacuum_cleaner_speed_control\source\switch\switch.c
+	"switch.h"
+
+1615491703 source:e:\sa\vacuum_cleaner_speed_control\test\fake_switch\fake_sw.c
+	"fake_sw.h"
+
+1615491738 source:e:\sa\vacuum_cleaner_speed_control\test\fake_switch\fake_sw_test.c
+	"fake_sw.h"
+	"../../source/switch/switch.h"
+	"../unity/unity_fixture.h"
+
+1615496826 source:e:\sa\vacuum_cleaner_speed_control\test\speed_test\speed_test.c
+	<stdio.h>
+	<string.h>
+	"../../source/speed/speed.h"
+	"../fake_switch/fake_sw.h"
+	"../unity/unity_fixture.h"
+
+1615496706 source:e:\sa\vacuum_cleaner_speed_control\source\motor\motor.c
+	<stdlib.h>
+	<stdio.h>
+	"conio.h"
+	"../speed/speed.h"
+	"motor.h"
+
+1615491587 e:\sa\vacuum_cleaner_speed_control\source\motor\motor.h
+
+1615478656 source:e:\sa\ahmed mohamed elbadry\speedcontrol_ahmed_mohamed\source\main.c
+	<stdio.h>
+	<stdlib.h>
+	"switch/switch.h"
+	"speed/speed.h"
+	"../test/unity/unity_fixture.h"
+
+1615491568 e:\sa\ahmed mohamed elbadry\speedcontrol_ahmed_mohamed\source\switch\switch.h
+
+1615491578 e:\sa\ahmed mohamed elbadry\speedcontrol_ahmed_mohamed\source\speed\speed.h
+
+1578842215 e:\sa\ahmed mohamed elbadry\speedcontrol_ahmed_mohamed\test\unity\unity_fixture.h
+	"unity.h"
+	"unity_internals.h"
+	"unity_fixture_internals.h"
+	"unity_memory.h"
+
+1577326492 e:\sa\ahmed mohamed elbadry\speedcontrol_ahmed_mohamed\test\unity\unity.h
+	"unity_internals.h"
+
+1577326492 e:\sa\ahmed mohamed elbadry\speedcontrol_ahmed_mohamed\test\unity\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
+1577326492 e:\sa\ahmed mohamed elbadry\speedcontrol_ahmed_mohamed\test\unity\unity_fixture_internals.h
+
+1577326492 e:\sa\ahmed mohamed elbadry\speedcontrol_ahmed_mohamed\test\unity\unity_memory.h
+	<stddef.h>
+	<stdlib.h>
+
+1615496706 source:e:\sa\ahmed mohamed elbadry\speedcontrol_ahmed_mohamed\source\motor\motor.c
+	<stdlib.h>
+	<stdio.h>
+	"conio.h"
+	"../speed/speed.h"
+	"motor.h"
+
+1615491587 e:\sa\ahmed mohamed elbadry\speedcontrol_ahmed_mohamed\source\motor\motor.h
+
+1615491715 source:e:\sa\ahmed mohamed elbadry\speedcontrol_ahmed_mohamed\source\speed\speed.c
+	"speed.h"
+	"../switch/switch.h"
+	"../../test/fake_switch/fake_sw.h"
+
+1615491286 e:\sa\ahmed mohamed elbadry\speedcontrol_ahmed_mohamed\test\fake_switch\fake_sw.h
+	"../../source/switch/switch.h"
+
+1615476002 source:e:\sa\ahmed mohamed elbadry\speedcontrol_ahmed_mohamed\source\switch\switch.c
+	"switch.h"
+
+1615491703 source:e:\sa\ahmed mohamed elbadry\speedcontrol_ahmed_mohamed\test\fake_switch\fake_sw.c
+	"fake_sw.h"
+
+1615491738 source:e:\sa\ahmed mohamed elbadry\speedcontrol_ahmed_mohamed\test\fake_switch\fake_sw_test.c
+	"fake_sw.h"
+	"../../source/switch/switch.h"
+	"../unity/unity_fixture.h"
+
+1615496826 source:e:\sa\ahmed mohamed elbadry\speedcontrol_ahmed_mohamed\test\speed_test\speed_test.c
+	<stdio.h>
+	<string.h>
+	"../../source/speed/speed.h"
+	"../fake_switch/fake_sw.h"
+	"../unity/unity_fixture.h"
+
+1577326492 source:e:\sa\ahmed mohamed elbadry\speedcontrol_ahmed_mohamed\test\unity\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
+1577326492 source:e:\sa\ahmed mohamed elbadry\speedcontrol_ahmed_mohamed\test\unity\unity_fixture.c
+	"unity_fixture.h"
+	"unity_internals.h"
+	<string.h>
+
+1577326492 source:e:\sa\ahmed mohamed elbadry\speedcontrol_ahmed_mohamed\test\unity\unity_memory.c
+	"unity.h"
+	"unity_memory.h"
+	<string.h>
+	<stdlib.h>
+
